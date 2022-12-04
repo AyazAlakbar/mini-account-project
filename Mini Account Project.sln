@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mini Account Project", "Mini Account Project\Mini Account Project.csproj", "{C09A172F-FC6C-4ECE-A013-9984B296C020}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "Service\Service.csproj", "{6F68C4E9-A1A8-41D3-B158-96D668250D6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C09A172F-FC6C-4ECE-A013-9984B296C020}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C09A172F-FC6C-4ECE-A013-9984B296C020}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C09A172F-FC6C-4ECE-A013-9984B296C020}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C09A172F-FC6C-4ECE-A013-9984B296C020}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F68C4E9-A1A8-41D3-B158-96D668250D6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F68C4E9-A1A8-41D3-B158-96D668250D6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F68C4E9-A1A8-41D3-B158-96D668250D6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F68C4E9-A1A8-41D3-B158-96D668250D6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CEA94FD-65CF-45CB-8D1B-9B558125506B}
+	EndGlobalSection
+EndGlobal

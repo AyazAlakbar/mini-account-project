@@ -1,0 +1,17 @@
+C:\Users\ProBook\Desktop\Mini Account Project\Mini Account Project\bin\Debug\netcoreapp3.1\Mini Account Project.exe
+C:\Users\ProBook\Desktop\Mini Account Project\Mini Account Project\bin\Debug\netcoreapp3.1\Mini Account Project.deps.json
+C:\Users\ProBook\Desktop\Mini Account Project\Mini Account Project\bin\Debug\netcoreapp3.1\Mini Account Project.runtimeconfig.json
+C:\Users\ProBook\Desktop\Mini Account Project\Mini Account Project\bin\Debug\netcoreapp3.1\Mini Account Project.runtimeconfig.dev.json
+C:\Users\ProBook\Desktop\Mini Account Project\Mini Account Project\bin\Debug\netcoreapp3.1\Mini Account Project.dll
+C:\Users\ProBook\Desktop\Mini Account Project\Mini Account Project\bin\Debug\netcoreapp3.1\Mini Account Project.pdb
+C:\Users\ProBook\Desktop\Mini Account Project\Mini Account Project\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\ProBook\Desktop\Mini Account Project\Mini Account Project\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\ProBook\Desktop\Mini Account Project\Mini Account Project\obj\Debug\netcoreapp3.1\Mini Account Project.csproj.AssemblyReference.cache
+C:\Users\ProBook\Desktop\Mini Account Project\Mini Account Project\obj\Debug\netcoreapp3.1\Mini Account Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ProBook\Desktop\Mini Account Project\Mini Account Project\obj\Debug\netcoreapp3.1\Mini Account Project.AssemblyInfoInputs.cache
+C:\Users\ProBook\Desktop\Mini Account Project\Mini Account Project\obj\Debug\netcoreapp3.1\Mini Account Project.AssemblyInfo.cs
+C:\Users\ProBook\Desktop\Mini Account Project\Mini Account Project\obj\Debug\netcoreapp3.1\Mini Account Project.csproj.CoreCompileInputs.cache
+C:\Users\ProBook\Desktop\Mini Account Project\Mini Account Project\obj\Debug\netcoreapp3.1\Mini Account Project.csproj.CopyComplete
+C:\Users\ProBook\Desktop\Mini Account Project\Mini Account Project\obj\Debug\netcoreapp3.1\Mini Account Project.dll
+C:\Users\ProBook\Desktop\Mini Account Project\Mini Account Project\obj\Debug\netcoreapp3.1\Mini Account Project.pdb
+C:\Users\ProBook\Desktop\Mini Account Project\Mini Account Project\obj\Debug\netcoreapp3.1\Mini Account Project.genruntimeconfig.cache
